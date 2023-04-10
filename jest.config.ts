@@ -8,4 +8,8 @@ export default {
   preset: "ts-jest",
   coverageProvider: "v8",
   testEnvironment: "jsdom",
+  setupFilesAfterEnv: ["./jest.setup.ts"],
+  moduleNameMapper: {
+    "^.+\\.css$": "identity-obj-proxy",
+  },
 };

@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button renders variant primary correctly 1`] = `
+<div>
+  <button
+    class=" "
+  >
+    button
+  </button>
+</div>
+`;
+
+exports[`Button renders variant secondary correctly 1`] = `
+<div>
+  <button
+    class=" "
+  >
+    button
+  </button>
+</div>
+`;

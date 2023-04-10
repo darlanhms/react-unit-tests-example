@@ -1,0 +1,14 @@
+.base {
+  color: white;
+  padding: 8px 25px;
+  border: none;
+  border-radius: 5px;
+}
+
+.primary {
+    background-color: red;
+}
+
+.secondary {
+    background-color: blue;
+}
