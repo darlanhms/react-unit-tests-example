@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Input matches snapshot 1`] = `
+<div>
+  <div>
+    <input />
+  </div>
+</div>
+`;
+
+exports[`Input renders a label when informed 1`] = `
+<div>
+  <div>
+    <label>
+      Nome
+    </label>
+    <input />
+  </div>
+</div>
+`;

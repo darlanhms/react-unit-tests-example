@@ -3,12 +3,13 @@
   padding: 8px 25px;
   border: none;
   border-radius: 5px;
+  cursor: pointer;
 }
 
 .primary {
-    background-color: red;
+  background-color: red;
 }
 
 .secondary {
-    background-color: blue;
+  background-color: blue;
 }
